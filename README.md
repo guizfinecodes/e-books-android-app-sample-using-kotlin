@@ -1,3 +1,3 @@
-# e-books-android-app-sample-using-kotlin
+# e-books-android-app-sample-using-java
 
-#android app using kotlin fetching songs from GOOGLE BOOKS API
+#android app using java fetching songs from GOOGLE BOOKS API
