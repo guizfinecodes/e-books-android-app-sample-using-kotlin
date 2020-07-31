@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">E-Books</string>
+    <string name="search">Search</string>
+    <string name="error_data_message">Error loading data from the Google Books API</string>
+</resources>
